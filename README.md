@@ -8,3 +8,4 @@
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Day 1|October 4| Scripting Basics with Pyhton | [TryHackMe](https://tryhackme.com/module/scripting-for-pentesters)|
+|Day 2|October 5| SQL Injection Basics |[TryHackme](https://tryhackme.com/room/sqlinjectionlm)|
